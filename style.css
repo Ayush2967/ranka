@@ -1,0 +1,48 @@
+body, html {
+    background-color: #ebecf0;
+    align-items: center;
+  }
+  body, p, input, select, textarea, button {
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: -0.07vw;
+    font-size: 3vw;
+  }
+  div, p {
+    color: #000000;
+    text-shadow: 0.1vw 0.1vw 0.1vw #fff;
+  }
+  .container{
+    align-self: center;
+    background-color: #ebecf0;
+    border-radius: 1vw;
+    box-shadow: 0 0 1vw 0 rgba(0, 0, 0, 0.2);
+    padding: 1.7vw;
+    margin: 1.7vw;
+    width: 50vw;
+  
+  }
+  form {
+    padding: 1vw;
+    width: 25vww;
+    margin: 0 auto;
+  }
+  .segment {
+    padding: 32px 0;
+    text-align: center;
+  }
+ 
+  label {
+    display: block;
+    margin-bottom: 2vw;
+    width: 100%;
+  }
+  .website-counter {
+    background-color: #ff4957;
+    height: 30px;
+    width: 80px;
+    color: white;
+    border-radius: 30px;
+    font-weight: 700;
+    font-size: 25px;
+    margin-top: 10px;
+  }
